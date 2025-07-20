@@ -30,25 +30,6 @@ Built with creativity, precision, and love for design and code — this site sho
 
 ---
 
-## 📁 Folder Structure
-
-aadya-portfolio/
-│
-├── index.html
-├── style.css
-├── script.js                 # (optional if you use JavaScript)
-│
-├── assets/                  # Store all images, icons, reports, screenshots
-│   ├── home-page.png
-│   ├── about-section.png
-│   ├── projects-section.png
-│   ├── contact-section.png
-│   └── lighthouse-report.png
-│
-├── README.md
-└── LICENSE                  # (optional but recommended for open source)
-
-
 ## 📊 Lighthouse Report
 
 Here's the performance analysis of this portfolio using Google's Lighthouse:
