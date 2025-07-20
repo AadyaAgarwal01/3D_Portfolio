@@ -32,14 +32,22 @@ Built with creativity, precision, and love for design and code — this site sho
 
 ## 📁 Folder Structure
 
-/assets
-└── images, screenshots, lighthouse-report
-
-/src
+aadya-portfolio/
+│
 ├── index.html
 ├── style.css
-└── script.js (if applicable)
----
+├── script.js                 # (optional if you use JavaScript)
+│
+├── assets/                  # Store all images, icons, reports, screenshots
+│   ├── home-page.png
+│   ├── about-section.png
+│   ├── projects-section.png
+│   ├── contact-section.png
+│   └── lighthouse-report.png
+│
+├── README.md
+└── LICENSE                  # (optional but recommended for open source)
+
 
 ## 📊 Lighthouse Report
 
