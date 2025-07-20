@@ -32,7 +32,13 @@ Built with creativity, precision, and love for design and code — this site sho
 
 ## 📁 Folder Structure
 
+/assets
+└── images, screenshots, lighthouse-report
 
+/src
+├── index.html
+├── style.css
+└── script.js (if applicable)
 ---
 
 ## 📊 Lighthouse Report
